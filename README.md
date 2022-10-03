@@ -13,6 +13,7 @@ e as apresentações no laboratório.
 [Documento de Modelos](https://github.com/Renildo15/Gestor-Lab/blob/main/docs/doc-modelo.md)<br/>
 [Plano de Interação e Releases](https://github.com/Renildo15/Gestor-Lab/blob/main/docs/doc-interacao.md)<br/>
 [Documento de User Story base](https://github.com/Renildo15/Gestor-Lab/blob/main/docs/doc-userStory.md)<br/>
+[Documento de Testes](https://github.com/DarlanGabriel/Gestor-Lab/blob/main/docs/doc-teste.md)<br/>
 
 
 ## Instalação
