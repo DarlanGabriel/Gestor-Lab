@@ -400,10 +400,10 @@ Se possível usar teste automatizado.
  
 ## 4 - Recursos
  
-Python
-Django
-PostgreSQL
-Docker
+- Python
+- Django
+- PostgreSQL
+- Docker
  
 ### 4.1 - Ambiente de teste - Software e Hardware
  
@@ -411,9 +411,9 @@ Utilizando o framework Django para desenvolvimento de sistemas web,temos acesso 
  
 ### 4.2 - Ferramenta de teste
  
- unittest
-doctests
-pyunit
+- unittest
+- doctests
+- pyunit
  
  
 ## 5 - Cronograma
